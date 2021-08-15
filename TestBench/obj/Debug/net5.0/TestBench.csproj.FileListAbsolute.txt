@@ -1,0 +1,15 @@
+C:\Develop\workflows\TestBench\bin\Debug\net5.0\TestBench.exe
+C:\Develop\workflows\TestBench\bin\Debug\net5.0\TestBench.deps.json
+C:\Develop\workflows\TestBench\bin\Debug\net5.0\TestBench.runtimeconfig.json
+C:\Develop\workflows\TestBench\bin\Debug\net5.0\TestBench.runtimeconfig.dev.json
+C:\Develop\workflows\TestBench\bin\Debug\net5.0\TestBench.dll
+C:\Develop\workflows\TestBench\bin\Debug\net5.0\ref\TestBench.dll
+C:\Develop\workflows\TestBench\bin\Debug\net5.0\TestBench.pdb
+C:\Develop\workflows\TestBench\obj\Debug\net5.0\TestBench.GeneratedMSBuildEditorConfig.editorconfig
+C:\Develop\workflows\TestBench\obj\Debug\net5.0\TestBench.AssemblyInfoInputs.cache
+C:\Develop\workflows\TestBench\obj\Debug\net5.0\TestBench.AssemblyInfo.cs
+C:\Develop\workflows\TestBench\obj\Debug\net5.0\TestBench.csproj.CoreCompileInputs.cache
+C:\Develop\workflows\TestBench\obj\Debug\net5.0\TestBench.dll
+C:\Develop\workflows\TestBench\obj\Debug\net5.0\ref\TestBench.dll
+C:\Develop\workflows\TestBench\obj\Debug\net5.0\TestBench.pdb
+C:\Develop\workflows\TestBench\obj\Debug\net5.0\TestBench.genruntimeconfig.cache
