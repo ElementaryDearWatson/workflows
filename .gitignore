@@ -1,4 +1,4 @@
 *.log
-*/.vs/**
+**/.vs/**
 **/bin/Debug
 **/obj/Release
