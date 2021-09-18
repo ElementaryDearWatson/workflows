@@ -2,3 +2,5 @@
 **/.vs/**
 **/bin/Debug
 **/obj/Release
+/obj
+/bin
